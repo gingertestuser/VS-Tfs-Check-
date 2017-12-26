@@ -25,5 +25,10 @@ namespace Wpf_test_App
             InitializeComponent();
             //dummy code push 2
         }
+        public void someDummyFunction()
+        {
+
+        }
+
     }
 }
