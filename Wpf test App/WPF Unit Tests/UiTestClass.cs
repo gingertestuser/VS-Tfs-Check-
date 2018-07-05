@@ -18,7 +18,7 @@ namespace WPF_Unit_Tests
             MainWindow mw = new MainWindow();
 
 
-            mw.Show();
+        ;
             Assert.AreEqual(mw.IsVisible, true);
         }
     }

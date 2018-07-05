@@ -19,7 +19,7 @@ namespace WPF_Unit_Tests
         }
         [TestMethod]
         public void TestMethod3()
-        {
+        { 
             Assert.AreEqual(true, true);
         }
         [TestMethod]
@@ -30,6 +30,10 @@ namespace WPF_Unit_Tests
         public void TestMethod4()
         {
             Assert.AreEqual(true, true);
+        }
+        public void TestMethod5()
+        {
+            Assert.AreEqual(fail, true);
         }
     }
 }
