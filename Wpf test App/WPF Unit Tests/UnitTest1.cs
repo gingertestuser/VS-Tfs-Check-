@@ -22,5 +22,15 @@ namespace WPF_Unit_Tests
         {
             Assert.AreEqual(true, true);
         }
+        [TestMethod]
+        public void TestMethod4()
+        {
+            Assert.AreEqual(true, true);
+        }
+        public void TestMethod4()
+        {
+            Assert.AreEqual(true, true);
+        }
     }
+}
 }
