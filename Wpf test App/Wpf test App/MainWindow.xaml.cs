@@ -27,7 +27,7 @@ namespace Wpf_test_App
         }
         public void someDummyFunction()
         {
-
+            //test
         }
 
     }
