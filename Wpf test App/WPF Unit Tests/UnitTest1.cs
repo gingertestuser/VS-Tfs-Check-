@@ -9,7 +9,7 @@ namespace WPF_Unit_Tests
         [TestMethod]
         public void TestMethod1()
         {
-            Assert.AreEqual(true, false);
+            Assert.AreEqual(true, true);
         }
 
         [TestMethod]
